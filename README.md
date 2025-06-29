@@ -10,8 +10,14 @@ This project is a SwiftUI macOS app to help you manage your iOS Simulators more 
   - Running simulators are highlighted in green and labeled "Running".
   - Stopped simulators are labeled "Stopped".
 - **Start or terminate simulators** with a single click.
+
+  <img width="1105" alt="image" src="https://github.com/user-attachments/assets/318d46db-7e95-4683-8de0-2862ca3342cf" />
+
 - **Tap a simulator** to view all installed apps on that device.
 - **Launch any installed app** on a simulator directly from the app.
+
+  <img width="796" alt="image" src="https://github.com/user-attachments/assets/df88e0d5-652f-4af7-8054-9198196329ae" />
+
 - **All shell commands are printed** to the console for transparency and debugging.
 
 ## Requirements
