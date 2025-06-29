@@ -40,4 +40,4 @@ This project is a SwiftUI macOS app to help you manage your iOS Simulators more 
 
 ---
 
-**Enjoy managing your
+**Enjoy managing your simulators!**
